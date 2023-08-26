@@ -1,4 +1,4 @@
-<h1>Hello, I'm Earvin! <br/><a Aspiring System Administrator</a> </h1>
+<h1>Hi, I'm Earvin! <br/><a href="https://github.com/joshmadakor1">Aspiring System Administrator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

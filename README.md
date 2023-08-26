@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 System Administrator Projects:</h2>
 
-- <b>10 Bootable Medias in 1 with Ventoy</b>
+- <b>Multiple Bootable Medias in 1 with Ventoy</b>
   - [Installation and Demonstration of Ventoy](https://github.com/earvinsantiago2020/Ventoy)
 
 - <b>Python</b>

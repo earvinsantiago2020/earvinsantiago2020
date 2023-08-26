@@ -11,12 +11,12 @@
 
   - <b> Python and Powershell Scripting </b>
     - I am currently working on implenting Powershell scripting into my skills by automating tasks like installing or running updates.
-    - I have experience with Python and have created simple game with PyGame library utilizing various modules from it.
+    - I have experience with Python and have created a game with the "PyGame" library utilizing various modules from it.
 
   - <b> CCNA (Cisco Certified Network Associate) </b>
     - TCP/IP, Switches, Routers, ACLs, LAGP, etc.
     - The foundation this certification has provided me with has been critical for home labs and projects I have worked on.
-    - I plan to simulate and configure more technoligies with GNS3 but have been using Packet Tracer Primarily for studying.
+    - I plan to simulate and configure more technologies with GNS3 but have been using Packet Tracer Primarily for studying.
 
 <h2> 🤳 Connect with me: </h2>
 

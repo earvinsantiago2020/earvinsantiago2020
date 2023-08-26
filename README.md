@@ -1,4 +1,4 @@
-<h1>Hello, I'm Earvin! <br/><a href="https://github.com/earvinsantiago2020">Programmer</a>, <a href="www.linkedin.com/in/earvin-santiago-79362a247">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Earvin! <br/><a Aspiring System Administrator</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

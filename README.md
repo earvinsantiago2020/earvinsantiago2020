@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 System Administrator Projects:</h2>
 
-- <b>Multiple Bootable Medias in 1 with Ventoy</b>
-  - [Installation and Demonstration of Ventoy](https://github.com/earvinsantiago2020/Ventoy)
+- <b>Tools and Demonstrations</b>
+  - [Multiple Bootable Medias in 1 USB with Ventoy](https://github.com/earvinsantiago2020/Ventoy) 
+
 
 - <b>Python/Powershell Scripting</b>
   - [Powershell Script of Silent Installation of Applicaiton(s)](https://github.com/earvinsantiago2020/SilentAppInstall)

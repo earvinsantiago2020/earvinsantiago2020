@@ -5,7 +5,7 @@
 - <b>Multiple Bootable Medias in 1 with Ventoy</b>
   - [Installation and Demonstration of Ventoy](https://github.com/earvinsantiago2020/Ventoy)
 
-- <b>Python</b>
+- <b>Python/Powershell Scripting</b>
   
 
 <h2> 🧑‍🎓 Currently Studying: </h2>

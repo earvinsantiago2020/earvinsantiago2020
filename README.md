@@ -6,6 +6,7 @@
   - [Installation and Demonstration of Ventoy](https://github.com/earvinsantiago2020/Ventoy)
 
 - <b>Python/Powershell Scripting</b>
+  - [Powershell Script of Silent Installation of Applicaiton(s)](https://github.com/earvinsantiago2020/SilentAppInstall)
   
 
 <h2> 🧑‍🎓 Currently Studying: </h2>

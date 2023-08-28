@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 System Administrator Projects:</h2>
 
-- <b>Tools and Demonstrations</b>
+- <b>Projects and Demonstrations</b>
   - [Multiple Bootable Medias in 1 USB with Ventoy](https://github.com/earvinsantiago2020/Ventoy) 
 
 

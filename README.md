@@ -7,7 +7,7 @@
 
 
 - <b>Python/Powershell Scripting</b>
-  - [Powershell Script of Silent Installation of Applicaiton(s)](https://github.com/earvinsantiago2020/SilentAppInstall)
+  - [Powershell Script of Silent Installation of Application(s)](https://github.com/earvinsantiago2020/SilentAppInstall)
   
 
 <h2> 🧑‍🎓 Currently Studying: </h2>

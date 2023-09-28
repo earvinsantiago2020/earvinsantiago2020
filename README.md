@@ -8,6 +8,7 @@
 
 - <b>Python/Powershell Scripting</b>
   - [Powershell Script of Silent Installation of Application(s)](https://github.com/earvinsantiago2020/SilentAppInstall)
+  - [Powershell Enumerate Users and Users Home Folders on Windows](https://github.com/earvinsantiago2020/EnumUsers)
   
 
 <h2> 🧑‍🎓 Currently Studying: </h2>
